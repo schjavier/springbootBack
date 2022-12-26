@@ -1,0 +1,6 @@
+com\backend\portfolio\services\IPersonaService.class
+com\backend\portfolio\controller\persController.class
+com\backend\portfolio\repository\IPersonaRepository.class
+com\backend\portfolio\services\PersonaService.class
+com\backend\portfolio\model\Persona.class
+com\backend\portfolio\PortfolioApplication.class
